@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open header.html",
-            "file": "c:\\Task 1\\ex1\\header.html"
+            "name": "Open paragraph.html",
+            "file": "c:\\Task 1\\ex2\\paragraph.html"
         }
     ]
 }
